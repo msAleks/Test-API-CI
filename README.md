@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/x7qkm6t9gg9xtwgs?svg=true)](https://ci.appveyor.com/project/msAleks/test-api-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/x7qkm6t9gg9xtwgs?svg=true)](https://ci.appveyor.com/projects/status/x7qkm6t9gg9xtwgs?svg=true)](https://ci.appveyor.com/project/msAleks/test-api-ci) 
