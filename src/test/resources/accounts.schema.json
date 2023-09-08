@@ -30,7 +30,7 @@
       },
       "currency": {
         "type": "string",
-        "enum": ["RUr", "uSD"],
+        "enum": ["rUr", "uSD"],
       }
     }
   }
